@@ -1,1 +1,1 @@
-Wee readme, awk shite..
+Wee readme, awk shite.
